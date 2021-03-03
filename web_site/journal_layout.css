@@ -19,9 +19,9 @@
  .body{
      border: 5px solid green;
      background-color: white;
-     align-content: center;
      margin-left: 10%;
      margin-right: 10%;
+     max-width: 1200px;
  }
  body{
      background-image: url("https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif");
