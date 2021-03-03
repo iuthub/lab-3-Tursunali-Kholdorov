@@ -8,18 +8,21 @@
 
 .middle{
     border: 5px solid blue;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
 }
 
 .middle span{
     border: 5px solid purple;
 }
- #last{
-     border: 5px solid blue;
- }
-
- #last span{
-     border: 5px solid purple;
- }
  .body{
      border: 5px solid green;
+     background-color: white;
+     align-content: center;
+     margin-left: 10%;
+     margin-right: 10%;
+ }
+ body{
+     background-image: url("https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif");
  }
