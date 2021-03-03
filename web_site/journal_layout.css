@@ -1,0 +1,25 @@
+.intro {
+    border: 5px solid red;
+}
+
+.intro h2{
+    border: 5px solid orange;
+}
+
+.middle{
+    border: 5px solid blue;
+}
+
+.middle span{
+    border: 5px solid purple;
+}
+ #last{
+     border: 5px solid blue;
+ }
+
+ #last span{
+     border: 5px solid purple;
+ }
+ .body{
+     border: 5px solid green;
+ }
