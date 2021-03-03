@@ -1,5 +1,6 @@
 .intro {
     border: 5px solid red;
+    text-align: right;
 }
 
 .intro h2{
@@ -11,6 +12,7 @@
     background-color: #E8FBFB;
     padding: 5px;
     margin-top: 10px;
+
 }
 
 .middle span{
@@ -25,4 +27,11 @@
  }
  body{
      background-image: url("https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif");
+ }
+ img{
+    float: right;
+ }
+ p{
+     overflow: hidden;
+     margin-bottom: 0;
  }
